@@ -1,1 +1,0 @@
-# salary-price-prediction
